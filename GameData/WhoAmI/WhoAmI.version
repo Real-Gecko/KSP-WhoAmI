@@ -1,7 +1,7 @@
 {
     "NAME"     : "IVA Kerbal Identifier",
-    "URL"      : "https://github.com/Real-Gecko/KSP-WhoAmI",
-    "DOWNLOAD" : "",
+    "URL"      : "https://github.com/Real-Gecko/KSP-WhoAmI/raw/master/GameData/WhoAmI/WhoAmI.version",
+    "DOWNLOAD" : "http://spacedock.info/mod/825/Who%20Am%20I%3F",
     "GITHUB" :
     {
         "USERNAME" : "Real-Gecko",
